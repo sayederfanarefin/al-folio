@@ -10,7 +10,6 @@ build-prod:
   stage: build
   script:
     - bundle install
-    - sed -i "/url:\ https://sayederfanarefin.github.io/c\url:\ http://www.myweb.ttu.edu/saarefin" _config.yml
     - bundle exec jekyll build -d public
 
   artifacts:
