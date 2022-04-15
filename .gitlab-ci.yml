@@ -1,0 +1,23 @@
+image: docker:latest
+services:
+  - docker:dind
+
+stages:
+  - build
+  - deploy
+
+
+build-prod:
+  image: ruby:2.6
+  stage: build
+  script:
+    - bundle install
+    - sed -i "/url: https://sayederfanarefin.github.io/c\url: http://www.myweb.ttu.edu/saarefin" _config.yml
+    - bundle exec jekyll build -d public
+
+  artifacts:
+    paths:
+      - public
+    expire_in: 60min
+  only:
+    - master
