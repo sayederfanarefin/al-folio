@@ -2,10 +2,28 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I mostly work as a TA and lab instructor. I have also taught a course.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I have worked as a Lab instructor and TA for the following courses.
 
-Organize your courses by years, topics, or universities, however you like!
+Programming Principles II: C (CS-1412)
+- Spring 2021 and Spring 2022
+
+Data Structures (CS-2413)
+- Fall 2021
+
+Computer Networks (CS-4392)
+- Fall 2020
+
+CS-4366
+- Fall 2020
+
+I am/was also the instructor for the following courses.
+
+Computer Organization and Assembly Language Programming (CS-2350)
+- Summer 2021
+
+Computer Organization and Assembly Language Programming (CS-3350)
+- Summer 2022
