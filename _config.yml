@@ -10,16 +10,16 @@ email: erfanjordison@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Powered by Jekyll with al-folio theme.
+  
 
 keywords:  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://sayederfanarefin.github.io # the base hostname & protocol for your site http://www.myweb.ttu.edu/saarefin https://sayederfanarefin.github.io
-baseurl:  # the subpath of your site, e.g. /blog/
+url: http://www.myweb.ttu.edu # the base hostname & protocol for your site http://www.myweb.ttu.edu/saarefin https://sayederfanarefin.github.io
+baseurl: /saarefin # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -85,7 +85,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name: Arefin's blog  # your blog must have a name for it to show up in the nav bar
-blog_description: Some blog posts of mine
+blog_description: ---
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -93,7 +93,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: sayederfanarefin # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------
