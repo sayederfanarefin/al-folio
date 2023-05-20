@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Room 201b, Computer Science Building</p>
+    <p>Room 201, Computer Science Building</p>
     <p>2500 Broadway</p>
     <p>Lubbock, TX 79409</p>
 
@@ -17,8 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at Texas Tech University. I started my PhD in Spring 2020. My advisor is Dr. Abdul Serwadda. My research is focused on Cyber-security. I completed my Bachelors in Computer Science and Engineering in 2017 from BRAC University, Dhaka, Bangladesh. I completed my Masters in Computer Science and Engineering from BRAC University. 
+I am a PhD candidate at Texas Tech University. My advisor is Dr. Abdul Serwadda. My research is focused on Cyber-security. I completed my Bachelors in Computer Science and Engineering in 2017 from BRAC University, Dhaka, Bangladesh. I completed my Masters in Computer Science and Engineering from BRAC University. 
 
-I also work as a Grad Part-Time Instructor. 
+I work as a Grad Part-Time Instructor at Tech. 
 
 I love music and I play the drums when I get some free time (!)
