@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student, Computer Science, <a href='https://ttu.edu'>Texas Tech University</a>. 
+subtitle: Assistant Professor, Computer Science, <a href='https://udayton.edu'>University of Dayton</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Room 201, Computer Science Building</p>
-    <p>2500 Broadway</p>
-    <p>Lubbock, TX 79409</p>
+    <p>Assistant Professor, Computer Science</p>
+    <p>University of Dayton</p>
+    <p>Dayton, OH 45459</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
