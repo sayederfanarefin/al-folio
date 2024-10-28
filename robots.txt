@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.myweb.ttu.edu/saarefin/sitemap.xml
+Sitemap: https://sayederfanarefin.github.iohttps://sayederfanarefin.github.io/sitemap.xml
